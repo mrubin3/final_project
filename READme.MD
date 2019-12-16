@@ -8,4 +8,4 @@ This is my final project on the Dominican Republic.
 
 ## Population of the Dominican Republic's Regions
 
-![](dom_pop19.png)
+![](dom_pop19_1.png)
