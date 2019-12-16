@@ -4,9 +4,13 @@ Below is my final project on the Dominican Republic.
 
 ## Political Subdivisions
 
-### Administrative Subdivisions of the Dominican Republic
+### Administrative Subdivisions
 
 ![](dr.png)
+This map shows the regions and provinces of the Dominican Republic as a whole.
+
+![](combined.png)
+Pictured are the boundaries and districts of La Romana and Villa Hermosa provinces, which I decided to focus on. There are very few districts present in the region, making the entire province of Villa Hermosa appear as part of a city. The region is located along the southern coast, and an island is present at the bottom of the map.
 
 ## Population
 
@@ -27,8 +31,8 @@ Below is my final project on the Dominican Republic.
 
 ![](domr2one.png)
 This plot reveals a heavy correlation between population and nighttime lights within the Dominican Republic as a whole. One explanation for the result is the country's large urban population, as more people in cities will produce a greater positive correlation with lighting.
+
 ![](domr2two.png)
 This plot illustrates the fitted values of each available variable against the residual data of the regression model. The high r-squared value suggests strong correlation between population and the variables.
-## Land Use
 
 ## Roads and Health Care
