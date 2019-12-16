@@ -23,6 +23,12 @@ Below is my final project on the Dominican Republic.
 
 ![](domhistogram.png)
 
+### Correlation
+
+![](domr2one.png)
+This plot reveals a heavy correlation between population and nighttime lights within the Dominican Republic as a whole. One explanation for the result is the country's large urban population, as more people in cities will produce a greater positive correlation with lighting.
+![](domr2two.png)
+This plot illustrates the fitted values of each available variable against the residual data of the regression model. The high r-squared value suggests strong correlation between population and the variables.
 ## Land Use
 
 ## Roads and Health Care
