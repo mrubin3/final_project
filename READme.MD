@@ -19,6 +19,10 @@ Below is my final project on the Dominican Republic.
 
 ![](dom_logpop19b.png)
 
+### Density Histogram
+
+![](domhistogram.png)
+
 ## Land Use
 
 ## Roads and Health Care
