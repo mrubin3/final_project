@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Below is my final project on the Dominican Republic.
+Below is my final project on the Dominican Republic. My original country was Chad, but the process of extracting data took up too much time and space, so I chose the smaller Dominican Republic as a replacement.
 
 ## Political Subdivisions
 
