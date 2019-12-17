@@ -10,7 +10,7 @@ Below is my final project on the Dominican Republic.
 This map shows the regions and provinces of the Dominican Republic as a whole. The country is bordered on the west by Haiti, with the Atlantic Ocean to the north and east and the Caribbean Sea to the south.
 
 ![](combined.png)
-Pictured are the boundaries and districts of La Romana and Villa Hermosa provinces, which I decided to focus on. There are very few districts present in the region, making the entire province of Villa Hermosa appear as part of a city. The region is located along the southern coast, and an island is present at the bottom of the map.
+Pictured are the boundaries and districts of La Romana and Villa Hermosa provinces, which I decided to focus on. There are very few districts present in the region, making the entire province of Villa Hermosa appear as part of a city. The region is located along the southern coast, and an island is present at the bottom of the map. Almost all of the population is concentrated in the city of La Romana, with only one other small urban area located in the region.
 
 ## Population
 
