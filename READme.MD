@@ -67,12 +67,12 @@ Healthcare facilities proved to be few and far between in La Romana and Villa He
 ![](render.png)
 Based on the topographic map, there is little correlation between topography and population. Since the region is coastal, very few mountains are present. Furthermore, the few hills and valleys that do exist have virtually no roads passing through and no access to healthcare, which is completely limited to cities.
 
-**Total Roads: 3042**
-**Total Roads on Map: 261**
-**Primary Roads: 46**
-**Secondary Roads: 65**
-**Tertiary Roads: 112**
-**Motorways: 38**
+**Total Roads: 3042**  
+**Total Roads on Map: 261**  
+**Primary Roads: 46**  
+**Secondary Roads: 65**  
+**Tertiary Roads: 112**  
+**Motorways: 38**  
 
-**Total Healthcare Facilities: 11**
+**Total Healthcare Facilities: 11**  
 **Hospitals: 11**
