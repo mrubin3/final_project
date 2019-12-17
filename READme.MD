@@ -5,7 +5,6 @@ Below is my final project on the Dominican Republic. My original country was Cha
 ## Political Subdivisions
 
 ### Administrative Subdivisions
-
 ![](dr.png)
 This map shows the regions and provinces of the Dominican Republic as a whole. The country is located on the island of Hispaniola and is bordered on the west by Haiti, with the Atlantic Ocean to the north and east and the Caribbean Sea to the south. The Dominican Republic is divided into ten regions and 31 provinces.
 
@@ -15,23 +14,19 @@ Pictured are the boundaries and districts of La Romana and Villa Hermosa provinc
 ## Population
 
 ### Population of the Dominican Republic's Regions
-
 ![](dom_pop19_1.png)
 ![](domrepublic.png)
 These maps illustrate the population of each region of the Dominican Republic. Yellow colors indicate low population, while red colors indicate high population. Outside of the Santo Domingo region, which contains approximately 3/8 of the country's population, people are concentrated in tourist regions along the coast. One thing to note is the low population in the western provinces bordering Haiti; this is likely a result of poverty and reduced infrastructure.
 
 ### Population Log of the Dominican Republic's Provinces
-
 ![](dom_logpop19b.png)
 This plot shows the population logarithm of the provinces of the Dominican Republic. Blue colors indicate a low logpop, while red colors indicate a high logpop. Population has very large concentration in and around Santo Domingo; nowhere else in the country does the population log even come close to that of the capital city.
 
 ### Density Histogram
-
 ![](domhistogram.png)
 The apparent negative correlation between population and density in this histogram reveals that density is very high in Santo Domingo and quite low everywhere else, even in other urban areas.
 
 ### Correlation
-
 ![](domr2one.png)
 This plot reveals a heavy correlation between population and nighttime lights within the Dominican Republic as a whole. One explanation for the result is the country's large urban population, as more people in cities will produce a greater positive correlation with lighting.
 
