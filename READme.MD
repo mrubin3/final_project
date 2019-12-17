@@ -52,3 +52,8 @@ These two plots appear similar to the sums differences plots above, as means are
 The logpop differences are similar to the aforementioned differences because the inner cities have the largest overestimations. However, for the population log, the suburbs of urban areas are much more positive than in the other difference plots, suggesting that the logarithm tends to underestimate these areas.
 
 ## Roads and Health Care
+### Transportation in La Romana & Villa Hermosa
+![](dom_roads.png)
+
+### Healthcare in La Romana & Villa Hermosa
+![](dom_health.png)
