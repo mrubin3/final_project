@@ -57,3 +57,6 @@ The logpop differences are similar to the aforementioned differences because the
 
 ### Healthcare in La Romana & Villa Hermosa
 ![](dom_health.png)
+
+### Combined with Topography
+![](render.png)
