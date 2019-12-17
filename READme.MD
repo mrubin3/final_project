@@ -35,4 +35,20 @@ This plot reveals a heavy correlation between population and nighttime lights wi
 ![](domr2two.png)
 This plot illustrates the fitted values of each available variable against the residual data of the regression model. The high r-squared value suggests strong correlation between population and the variables.
 
+### Differences
+#### Sums Differences
+![](diffsums.png)
+![](diffsums3d.png)
+These two plots suggest that the largest differences between the predicted output and population sums occur in the cities. Negative values exist in the largest urban areas because population models tend to overestimate the populations of cities.
+
+#### Means Differences
+![](diffmeans.png)
+![](diffmeans3d.png)
+These two plots appear similar to the sums differences plots above, as means are also overestimated in the cities. In fact, the gap between Santo Domingo and the rest of the country is even more exaggerated here than for sums differences.
+
+#### Logpop Differences
+![](difflogpop.png)
+![](difflogpop3d.png)
+The logpop differences are similar to the aforementioned differences because the inner cities have the largest overestimations. However, for the population log, the suburbs of urban areas are much more positive than in the other difference plots, suggesting that the logarithm tends to underestimate these areas.
+
 ## Roads and Health Care
