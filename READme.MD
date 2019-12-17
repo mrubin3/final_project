@@ -59,14 +59,6 @@ The logpop differences are similar to the aforementioned differences because the
 ![](dom_roads.png)
 The roadways in the two provinces are largely focused on the major city of La Romana, with a moderate correlation between number of roads and population density. There appears to be one road that bypasses the city and connects to the second largest city in the region, while it continues to traverse the southern coast of the island. Another road branches off from the main city and travels north further into the country. Overall, most roads are built with the purpose of connecting settlements.
 
-### Healthcare in La Romana & Villa Hermosa
-![](dom_health.png)
-Healthcare facilities proved to be few and far between in La Romana and Villa Hermosa. Only 11 health centers were present in the region; all of them were classified as hospitals and all of them were located within the limits of the largest city. Therefore, access to health care may be unreliable for people living in the second largest city and other, more rural areas of these two provinces. The map reveals that government is not investing enough money into healthcare in these two provinces.
-
-### Combined with Topography
-![](render.png)
-Based on the topographic map, there is little correlation between topography and population. Since the region is coastal, very few mountains are present. Furthermore, the few hills and valleys that do exist have virtually no roads passing through and no access to healthcare, which is completely limited to cities.
-
 **Total Roads: 3042**  
 **Total Roads on Map: 261**  
 **Primary Roads: 46**  
@@ -74,5 +66,13 @@ Based on the topographic map, there is little correlation between topography and
 **Tertiary Roads: 112**  
 **Motorways: 38**  
 
+### Healthcare in La Romana & Villa Hermosa
+![](dom_health.png)
+Healthcare facilities proved to be few and far between in La Romana and Villa Hermosa. Only 11 health centers were present in the region; all of them were classified as hospitals and all of them were located within the limits of the largest city. Therefore, access to health care may be unreliable for people living in the second largest city and other, more rural areas of these two provinces. The map reveals that government is not investing enough money into healthcare in these two provinces.
+
 **Total Healthcare Facilities: 11**  
 **Hospitals: 11**
+
+### Combined with Topography
+![](render.png)
+Based on the topographic map, there is little correlation between topography and population. Since the region is coastal, very few mountains are present. Furthermore, the few hills and valleys that do exist have virtually no roads passing through and no access to healthcare, which is completely limited to cities.
