@@ -20,7 +20,8 @@ These maps illustrate the population of each region of the Dominican Republic. Y
 
 ### Population Log of the Dominican Republic's Provinces
 ![](dom_logpop19b.png)
-This plot shows the population logarithm of the provinces of the Dominican Republic. Blue colors indicate a low logpop, while red colors indicate a high logpop. Population has very large concentration in and around Santo Domingo; nowhere else in the country does the population log even come close to that of the capital city.
+![](dr.mp4.png)
+These plots show the population logarithm of the provinces of the Dominican Republic from a 2d and 3d perspective. Blue colors indicate a low logpop, while red colors indicate a high logpop. Population has very large concentration in and around Santo Domingo; nowhere else in the country does the population log even come close to that of the capital city.
 
 ### Density Histogram
 ![](domhistogram.png)
